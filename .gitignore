@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+Java File Organizer.iml
 
 ### Eclipse ###
 .apt_generated
